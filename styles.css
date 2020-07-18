@@ -1,0 +1,31 @@
+/* body{
+    background-color: black;
+}; */
+
+.top-header{
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 1rem;  
+}
+
+.displayed-question{
+    align-items: center;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.start-div{
+    align-items: center;
+}
+.start-button{
+    align-items: center;
+}
