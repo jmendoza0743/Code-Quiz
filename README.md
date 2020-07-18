@@ -12,7 +12,7 @@ Used CSS, HTML, Javascript and Jquery.
 Download files and run in browser.
 
 ## Link to deployed application
-
+https://jmendoza0743.github.io/Code-Quiz/
 
 ## Credits
 This was compiled using a variety of sources including class notes and powerpoints, the Jquery documentation. Also used the Bootstrap for the styling. 
